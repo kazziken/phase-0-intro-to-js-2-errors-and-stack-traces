@@ -1,6 +1,6 @@
 // Fix the error in the snackSelection code snippet first
 
-const snackSelection = 'Pretzels';
+var snackSelection = 'Pretzels';
 
 if (snackSelection = 'Pretzels') {
   console.log("That'll be $1, please!");
